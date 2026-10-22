@@ -10,6 +10,7 @@ Uma interface desktop moderna, leve e transparente sobre o Git que você já tem
 ![React](https://img.shields.io/badge/React-TypeScript-61DAFB?logo=react&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-backend-000000?logo=rust&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-10%2B-0078D4?logo=windows&logoColor=white)
+[![deploy: no cuzinho](https://img.shields.io/badge/deploy-no%20cuzinho-d6331f)](https://cuzinho.dev)
 
 **[English](./README.md)** · **Português (BR)**
 
